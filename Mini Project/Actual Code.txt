@@ -1,0 +1,32 @@
+Actual Code-
+--------------------------
+
+pip install anvil-uplink
+
+pip install textblob
+
+import anvil.server
+anvil.server.connect("N63GVRXVAIMGDIEL6KPFNA4F-YPUQ4QPEPC4FKVH7")
+
+@anvil.server.callable
+def sentiment_analysis(sentence):
+    from textblob import TextBlob
+    #y=input("Type your sentance: ")
+    edu=TextBlob(sentence)
+    x=edu.sentiment.polarity
+    # Negative = x<0 and Neutral = 0 and Positive =x>0 && x<=1
+    if x<0:
+        return("Negative")
+    elif x==0:
+        return("Neutral")
+    if x>0 and x<=1:
+        return("Positive")
+    #print("Hello from the uplink, %s!" % name)
+
+#anvil.server.wait_forever()
+
+
+
+App website-
+--------------------
+https://realtimesentimentanalysis.anvil.app/
