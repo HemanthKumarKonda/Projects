@@ -1,5 +1,4 @@
-Actual Code-
---------------------------
+
 
 pip install anvil-uplink
 
@@ -27,6 +26,4 @@ def sentiment_analysis(sentence):
 
 
 
-App website-
---------------------
-https://realtimesentimentanalysis.anvil.app/
+
