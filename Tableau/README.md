@@ -53,7 +53,7 @@ The dashboards were developed to track key sales KPIs and segment customer data,
 **Hemanth Kumar Konda**  
 📧 hkonda01@gmail.com  
 📍 Charlotte, NC  
-[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/hemanth-kumar-konda-20bb251a4/))
+[LinkedIn](https://www.linkedin.com/in/hemanth-kumar-konda-20bb251a4/)
 
 ## 📄 License
 
