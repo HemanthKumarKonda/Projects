@@ -1,10 +1,10 @@
-📊 KPI Dashboard for Massachusetts General Hospital (MGH)
+📊 KPI Dashboard for Massachusetts General Hospital (MGH) (2024)
 Built an interactive Power BI dashboard to analyze patient metrics, reducing reporting time by 40% and improving data-driven decision-making with 90% accuracy in patient trend predictions.
 
-📈 Sales Performance and Customer Analytics Dashboards in Tableau
+📈 Sales Performance and Customer Analytics Dashboards in Tableau (2024)
 Developed Tableau dashboards with 95% accuracy in tracking sales trends and customer segmentation. Enhanced user experience with dynamic filtering, increasing data exploration efficiency by 50%.
 
-❤️ Heart Attack Analysis and Prediction in R
+❤️ Heart Attack Analysis and Prediction in R (2023)
 Compared ML models in R (Linear Regression, Logistic Regression, Naive Bayes, SVM, and KNN Classifier), achieving 85% prediction accuracy and identifying the best model for heart attack risk estimation.
 
 🦟 Dengue Cases Prediction using XGBoost (2022)
