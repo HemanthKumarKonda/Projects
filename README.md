@@ -12,3 +12,6 @@ Preprocessed time series health data and used XGBoost to predict epidemic and re
 
 💬 Real-Time Sentiment Analysis (2021)
 Implemented a sentiment analysis system using NLP techniques to classify user sentiment (positive, negative, or neutral) from social media, blogs, and reviews. Focused on real-time analysis and accurate text classification.
+
+🧠 To-Do Manager Bot (2025) 
+A conversational task management assistant built using Python and LLMs. It lets you add, view, and delete tasks interactively through natural chat. Inspired by the ChatGPT Prompt Engineering for Developers course.
