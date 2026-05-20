@@ -1,4 +1,4 @@
-### Hospital Data Assistant using Flask, MCP, and Claude (2025)
+### Hospital Operations Intelligence Assistant using Flask, MCP, and Claude (2025)
 Built a conversational hospital data assistant by turning local datasets into a Flask API, wrapping them with MCP tooling, and enabling natural-language querying through Claude for fast patient search, staff lookup, and weekly service insights.
 
 ### To-Do Manager Bot (2025) 
