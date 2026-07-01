@@ -1,57 +1,105 @@
-# MGH KPI Dashboard – Power BI Project
+# Power BI Dashboard Portfolio
 
-This Power BI project presents a comprehensive **Key Performance Indicator (KPI) Dashboard** developed for **Massachusetts General Hospital (MGH)**. It provides actionable insights into patient data, admissions, stay durations, costs, and insurance coverage to empower hospital administrators and decision-makers.
+This repository showcases a collection of Power BI projects that demonstrate end-to-end business intelligence, data analytics, and dashboard development across healthcare, higher education, and retail domains. Each project highlights the complete analytics workflow—from data preparation and modeling to DAX calculations, visualization, and actionable business insights.
 
-## 🏥 Project Overview
+---
 
-The **MGH KPI Dashboard** was designed to streamline data analysis and reduce manual reporting efforts. It offers a clear and interactive visualization of critical hospital performance metrics, helping the healthcare team respond effectively to trends and operational demands.
+## Core Skills & Technologies
 
-- 📉 Reduced reporting time by 40%
-- 🎯 Improved accuracy of patient trend predictions to 90%
-- ⚡ Enhanced data-driven decision-making for hospital administrators
+* Power BI
+* DAX
+* Power Query
+* Data Modeling
+* ETL & Data Transformation
+* KPI Development
+* Interactive Dashboard Design
+* Data Visualization & Storytelling
+* Performance Optimization
 
-## 📊 Key Features
+---
 
-- ✅ **KPIs**: Patient Admissions, Average Length of Stay, Visit Costs, Insurance Coverage Rates
-- 📆 **Trend Analysis**: Monthly and Year-over-Year comparisons
-- 🌐 **Demographics**: Age, Gender, and Insurance Type Segmentation
-- 🔍 **Interactive Filters**: Date, Department, Insurance Provider
-- 📍 **Location Insights** (if applicable): Patient origins or hospital branches
+## Projects
 
-## 📁 File Included
+### Massachusetts General Hospital – KPI Dashboard
 
-- `Mavan Analystics.pbix` – Power BI dashboard file containing the complete report and data model.
+**Tools:** Power BI • DAX • Healthcare Analytics
 
-## 🛠️ Technologies Used
+Developed a multi-page operational dashboard to monitor key patient and operational performance indicators. The solution streamlined reporting processes and enabled stakeholders to track performance through interactive KPI visualizations and forecasting metrics.
 
-- **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
-- **Power Query (M Language)**
-- **Data Modeling** (Star Schema)
-- **Power BI Visualizations** (Cards, Charts, Slicers, Tables)
+**Key Outcomes**
 
-## 🧭 Usage Instructions
+* Reduced reporting time by **40%**
+* Improved forecast accuracy to **90%**
+* Built interactive KPI tracking and operational performance reports
 
-1. Open the `Mavan Analystics.pbix` file in **Power BI Desktop**.
-2. Navigate through report tabs to explore various KPIs.
-3. Use slicers to filter data by department, time period, or insurance provider.
-4. Export insights as needed or publish to Power BI Service for team access.
+---
 
-## 🔮 Future Enhancements
+### Higher Education Student Success & Equity Analytics Dashboard
 
-- Real-time data refresh integration with hospital systems
-- Predictive analytics module using ML models
-- Drill-through reports for department-level performance
-- Mobile-optimized dashboard layout
+**Tools:** Power BI • IPEDS
 
-## 👨‍💼 Author
+Designed a four-page analytics dashboard using federal IPEDS data covering **16,800+ student records**. The dashboard evaluates enrollment, retention, graduation, and equity outcomes to support institutional decision-making.
 
-**Hemanth Kumar Konda**  
-📧 hkonda01@gmail.com   
-[LinkedIn](https://www.linkedin.com/in/hemanth-kumar-konda-20bb251a4/)
+**Key Outcomes**
 
-## 📄 License
+* Analyzed student success and equity metrics across multiple dimensions
+* Identified a **51-point graduation gap** between student groups
+* Revealed a **12-point graduation deficit** compared to national benchmarks
+* Supported data-driven equity planning and institutional strategy
 
-This project is for educational and portfolio demonstration purposes. Please contact for permission if you'd like to reuse or extend it for commercial or academic applications.
+---
 
+### Student Retention & Dropout Insights Dashboard
 
+**Tools:** Power BI • DAX • Power Query
+
+Built an interactive dashboard analyzing **4,400+ student records** to identify factors contributing to student retention and dropout. The dashboard provides detailed insights into demographic, financial, and academic characteristics associated with student outcomes.
+
+**Key Outcomes**
+
+* Identified an overall **32.12% dropout rate**
+* Segmented students by retention risk
+* Analyzed trends by age group, tuition payment status, academic performance, and enrollment characteristics
+* Delivered interactive insights to support retention initiatives
+
+---
+
+### Maven Market Business Intelligence Dashboard
+
+**Tools:** Power BI • DAX • Power Query
+
+Developed a comprehensive business intelligence solution for a multinational grocery retailer operating across Canada, Mexico, and the United States. The project involved data transformation, relational modeling, DAX measure development, and executive dashboard design.
+
+**Key Outcomes**
+
+* Connected and transformed multiple data sources
+* Built a relational data model following best practices
+* Developed reusable DAX measures for business reporting
+* Created interactive dashboards for sales, profitability, product performance, geographic analysis, and operational KPIs
+
+---
+
+## Technical Highlights
+
+Across these projects, I applied:
+
+* End-to-end Power BI development
+* Data cleaning and transformation with Power Query
+* Relational data modeling and star schema design
+* Advanced DAX measures and calculated columns
+* Interactive dashboards with slicers, drill-throughs, and bookmarks
+* KPI tracking and executive reporting
+* Data storytelling and business-focused visualizations
+* Performance optimization for scalable reporting solutions
+
+---
+
+## Repository Purpose
+
+The projects in this repository demonstrate my ability to:
+
+* Design scalable Power BI reporting solutions
+* Transform complex datasets into meaningful business insights
+* Develop interactive dashboards for executive and operational reporting
+* Apply business intelligence techniques across healthcare, higher education, and retail industries
+* Deliver data-driven solutions that support strategic decision-making
